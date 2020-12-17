@@ -1,0 +1,198 @@
+######### rsb_fill_deep_stack_0001 ###########
+INSTRUCTIONS_RETIRED: average: 19.0, std deviation: 0.0
+CYCLES: average: 479.491317671, std deviation: 13.3712097605
+UNKNOWN: average: 477.728294178, std deviation: 19.4805821512
+LD_BLOCKS.STORE_FORWARD: average: 1.0, std deviation: 0.0
+UOPS_EXECUTED.CORE: average: 86.7477017365, std deviation: 1.29060498
+BR_MISP_RETIRED.ALL_BRANCHES: average: 1.0, std deviation: 0.0
+UOPS_ISSUED.SINGLE_MUL: average: 0.0, std deviation: 0.0
+---------------------------------------------------------
+######### rsb_fill_deep_stack_0002 ###########
+INSTRUCTIONS_RETIRED: average: 21.0, std deviation: 0.0
+CYCLES: average: 538.05327414, std deviation: 47.8669707042
+UNKNOWN: average: 452.776914539, std deviation: 71.5197958503
+LD_BLOCKS.STORE_FORWARD: average: 1.0, std deviation: 0.0
+UOPS_EXECUTED.CORE: average: 274.805771365, std deviation: 316.869858499
+BR_MISP_RETIRED.ALL_BRANCHES: average: 1.16870144284, std deviation: 0.374488005181
+UOPS_ISSUED.SINGLE_MUL: average: 0.0, std deviation: 0.0
+---------------------------------------------------------
+######### rsb_fill_deep_stack_0003 ###########
+INSTRUCTIONS_RETIRED: average: 23.0, std deviation: 0.0
+CYCLES: average: 519.35610766, std deviation: 16.5327800041
+UNKNOWN: average: 518.211180124, std deviation: 20.2243349937
+LD_BLOCKS.STORE_FORWARD: average: 1.0, std deviation: 0.0
+UOPS_EXECUTED.CORE: average: 97.3302277433, std deviation: 6.24065822346
+BR_MISP_RETIRED.ALL_BRANCHES: average: 1.02070393375, std deviation: 0.14239129494
+UOPS_ISSUED.SINGLE_MUL: average: 0.0, std deviation: 0.0
+---------------------------------------------------------
+######### rsb_fill_deep_stack_0004 ###########
+INSTRUCTIONS_RETIRED: average: 25.0, std deviation: 0.0
+CYCLES: average: 553.523206751, std deviation: 27.3460109297
+UNKNOWN: average: 541.333333333, std deviation: 42.9390042642
+LD_BLOCKS.STORE_FORWARD: average: 1.0, std deviation: 0.0
+UOPS_EXECUTED.CORE: average: 104.594936709, std deviation: 22.7201479318
+BR_MISP_RETIRED.ALL_BRANCHES: average: 1.02426160338, std deviation: 0.153860254703
+UOPS_ISSUED.SINGLE_MUL: average: 0.0, std deviation: 0.0
+---------------------------------------------------------
+######### rsb_fill_deep_stack_0005 ###########
+INSTRUCTIONS_RETIRED: average: 27.0, std deviation: 0.0
+CYCLES: average: 573.119496855, std deviation: 22.1770174292
+UNKNOWN: average: 568.737945493, std deviation: 30.7184496896
+LD_BLOCKS.STORE_FORWARD: average: 1.0, std deviation: 0.0
+UOPS_EXECUTED.CORE: average: 109.838574423, std deviation: 27.4329206748
+BR_MISP_RETIRED.ALL_BRANCHES: average: 1.01048218029, std deviation: 0.101844509866
+UOPS_ISSUED.SINGLE_MUL: average: 0.0, std deviation: 0.0
+---------------------------------------------------------
+######### rsb_fill_deep_stack_0006 ###########
+INSTRUCTIONS_RETIRED: average: 29.0, std deviation: 0.0
+CYCLES: average: 594.364948454, std deviation: 19.1865719863
+UNKNOWN: average: 590.795876289, std deviation: 26.0208002346
+LD_BLOCKS.STORE_FORWARD: average: 1.0, std deviation: 0.0
+UOPS_EXECUTED.CORE: average: 111.94742268, std deviation: 4.12839283233
+BR_MISP_RETIRED.ALL_BRANCHES: average: 1.0, std deviation: 0.0
+UOPS_ISSUED.SINGLE_MUL: average: 0.0, std deviation: 0.0
+---------------------------------------------------------
+######### rsb_fill_deep_stack_0007 ###########
+INSTRUCTIONS_RETIRED: average: 31.0, std deviation: 0.0
+CYCLES: average: 613.376310273, std deviation: 25.6744230829
+UNKNOWN: average: 605.517819706, std deviation: 33.9175563072
+LD_BLOCKS.STORE_FORWARD: average: 1.0, std deviation: 0.0
+UOPS_EXECUTED.CORE: average: 119.097484277, std deviation: 20.2789750247
+BR_MISP_RETIRED.ALL_BRANCHES: average: 1.01572327044, std deviation: 0.124402770093
+UOPS_ISSUED.SINGLE_MUL: average: 0.0, std deviation: 0.0
+---------------------------------------------------------
+######### rsb_fill_deep_stack_0008 ###########
+INSTRUCTIONS_RETIRED: average: 33.0, std deviation: 0.0
+CYCLES: average: 641.95404814, std deviation: 44.9822001025
+UNKNOWN: average: 608.822757112, std deviation: 64.6197198314
+LD_BLOCKS.STORE_FORWARD: average: 0.997811816193, std deviation: 0.0467268194837
+UOPS_EXECUTED.CORE: average: 147.382932166, std deviation: 101.271608569
+BR_MISP_RETIRED.ALL_BRANCHES: average: 1.0886214442, std deviation: 0.28419655844
+UOPS_ISSUED.SINGLE_MUL: average: 0.0, std deviation: 0.0
+---------------------------------------------------------
+######### rsb_fill_deep_stack_0009 ###########
+INSTRUCTIONS_RETIRED: average: 35.0, std deviation: 0.0
+CYCLES: average: 684.974835886, std deviation: 53.8661565744
+UNKNOWN: average: 579.501094092, std deviation: 98.5997173716
+LD_BLOCKS.STORE_FORWARD: average: 0.998905908096, std deviation: 0.0330589604589
+UOPS_EXECUTED.CORE: average: 342.897155361, std deviation: 353.408953999
+BR_MISP_RETIRED.ALL_BRANCHES: average: 1.2067833698, std deviation: 0.40499877503
+UOPS_ISSUED.SINGLE_MUL: average: 0.0, std deviation: 0.0
+---------------------------------------------------------
+######### rsb_fill_deep_stack_0010 ###########
+INSTRUCTIONS_RETIRED: average: 37.0, std deviation: 0.0
+CYCLES: average: 716.756756757, std deviation: 89.0888306784
+UNKNOWN: average: 661.587027027, std deviation: 72.0364340574
+LD_BLOCKS.STORE_FORWARD: average: 0.994594594595, std deviation: 0.0733224863041
+UOPS_EXECUTED.CORE: average: 162.450810811, std deviation: 102.86029892
+BR_MISP_RETIRED.ALL_BRANCHES: average: 1.09189189189, std deviation: 0.288873280344
+UOPS_ISSUED.SINGLE_MUL: average: 0.0, std deviation: 0.0
+---------------------------------------------------------
+######### rsb_fill_deep_stack_0011 ###########
+INSTRUCTIONS_RETIRED: average: 39.0, std deviation: 0.0
+CYCLES: average: 698.743644068, std deviation: 43.5809440973
+UNKNOWN: average: 693.474576271, std deviation: 49.8634936371
+LD_BLOCKS.STORE_FORWARD: average: 1.0, std deviation: 0.0
+UOPS_EXECUTED.CORE: average: 137.223516949, std deviation: 9.09482985019
+BR_MISP_RETIRED.ALL_BRANCHES: average: 1.0063559322, std deviation: 0.0794703361589
+UOPS_ISSUED.SINGLE_MUL: average: 0.0, std deviation: 0.0
+---------------------------------------------------------
+######### rsb_fill_deep_stack_0012 ###########
+INSTRUCTIONS_RETIRED: average: 41.0, std deviation: 0.0
+CYCLES: average: 733.046908316, std deviation: 55.6913127863
+UNKNOWN: average: 722.968017058, std deviation: 61.3696639299
+LD_BLOCKS.STORE_FORWARD: average: 1.0, std deviation: 0.0
+UOPS_EXECUTED.CORE: average: 148.554371002, std deviation: 45.3957688385
+BR_MISP_RETIRED.ALL_BRANCHES: average: 1.07675906183, std deviation: 0.266208768188
+UOPS_ISSUED.SINGLE_MUL: average: 0.0, std deviation: 0.0
+---------------------------------------------------------
+######### rsb_fill_deep_stack_0013 ###########
+INSTRUCTIONS_RETIRED: average: 43.0, std deviation: 0.0
+CYCLES: average: 735.991471215, std deviation: 55.0762403524
+UNKNOWN: average: 717.407249467, std deviation: 65.5492005086
+LD_BLOCKS.STORE_FORWARD: average: 1.0, std deviation: 0.0
+UOPS_EXECUTED.CORE: average: 159.798507463, std deviation: 61.6900302091
+BR_MISP_RETIRED.ALL_BRANCHES: average: 1.03304904051, std deviation: 0.178764653757
+UOPS_ISSUED.SINGLE_MUL: average: 0.0, std deviation: 0.0
+---------------------------------------------------------
+######### rsb_fill_deep_stack_0014 ###########
+INSTRUCTIONS_RETIRED: average: 45.0, std deviation: 0.0
+CYCLES: average: 761.120380148, std deviation: 49.1033893696
+UNKNOWN: average: 750.006335797, std deviation: 62.1513291141
+LD_BLOCKS.STORE_FORWARD: average: 1.0, std deviation: 0.0
+UOPS_EXECUTED.CORE: average: 154.974656811, std deviation: 26.7672787954
+BR_MISP_RETIRED.ALL_BRANCHES: average: 1.02639915523, std deviation: 0.160319181105
+UOPS_ISSUED.SINGLE_MUL: average: 0.0, std deviation: 0.0
+---------------------------------------------------------
+######### rsb_fill_deep_stack_0015 ###########
+INSTRUCTIONS_RETIRED: average: 47.0, std deviation: 0.0
+CYCLES: average: 817.792016807, std deviation: 68.3255062932
+UNKNOWN: average: 629.008403361, std deviation: 123.185417109
+LD_BLOCKS.STORE_FORWARD: average: 0.242647058824, std deviation: 0.428683407269
+UOPS_EXECUTED.CORE: average: 175.384453782, std deviation: 44.3893119886
+BR_MISP_RETIRED.ALL_BRANCHES: average: 1.0493697479, std deviation: 0.21663881437
+UOPS_ISSUED.SINGLE_MUL: average: 0.0, std deviation: 0.0
+---------------------------------------------------------
+######### rsb_fill_deep_stack_0016 ###########
+INSTRUCTIONS_RETIRED: average: 49.0, std deviation: 0.0
+CYCLES: average: 824.380434783, std deviation: 69.0616048856
+UNKNOWN: average: 814.452173913, std deviation: 72.7695879476
+LD_BLOCKS.STORE_FORWARD: average: 0.258695652174, std deviation: 0.437918042241
+UOPS_EXECUTED.CORE: average: 179.636956522, std deviation: 53.8476387545
+BR_MISP_RETIRED.ALL_BRANCHES: average: 2.025, std deviation: 0.15612494996
+UOPS_ISSUED.SINGLE_MUL: average: 0.0, std deviation: 0.0
+---------------------------------------------------------
+######### rsb_fill_deep_stack_0017 ###########
+INSTRUCTIONS_RETIRED: average: 51.0, std deviation: 0.0
+CYCLES: average: 862.533116178, std deviation: 78.9584975988
+UNKNOWN: average: 838.931596091, std deviation: 82.3678139557
+LD_BLOCKS.STORE_FORWARD: average: 0.263843648208, std deviation: 0.440715529008
+UOPS_EXECUTED.CORE: average: 195.508143322, std deviation: 78.8037474164
+BR_MISP_RETIRED.ALL_BRANCHES: average: 3.02823018458, std deviation: 0.165629832037
+UOPS_ISSUED.SINGLE_MUL: average: 0.0, std deviation: 0.0
+---------------------------------------------------------
+######### rsb_fill_deep_stack_0018 ###########
+INSTRUCTIONS_RETIRED: average: 53.0, std deviation: 0.0
+CYCLES: average: 902.828933474, std deviation: 119.504557522
+UNKNOWN: average: 862.378035903, std deviation: 115.042422106
+LD_BLOCKS.STORE_FORWARD: average: 0.236536430834, std deviation: 0.424955230257
+UOPS_EXECUTED.CORE: average: 213.543822598, std deviation: 106.173708215
+BR_MISP_RETIRED.ALL_BRANCHES: average: 4.07919746568, std deviation: 0.270046712831
+UOPS_ISSUED.SINGLE_MUL: average: 0.0, std deviation: 0.0
+---------------------------------------------------------
+######### rsb_fill_deep_stack_0019 ###########
+INSTRUCTIONS_RETIRED: average: 55.0, std deviation: 0.0
+CYCLES: average: 1005.09020045, std deviation: 140.72753886
+UNKNOWN: average: 878.592427617, std deviation: 116.880065442
+LD_BLOCKS.STORE_FORWARD: average: 0.230512249443, std deviation: 0.421160720272
+UOPS_EXECUTED.CORE: average: 293.65701559, std deviation: 224.046001185
+BR_MISP_RETIRED.ALL_BRANCHES: average: 5.12472160356, std deviation: 0.330402973909
+UOPS_ISSUED.SINGLE_MUL: average: 0.0, std deviation: 0.0
+---------------------------------------------------------
+######### rsb_fill_deep_stack_0020 ###########
+INSTRUCTIONS_RETIRED: average: 57.0, std deviation: 0.0
+CYCLES: average: 1020.92709467, std deviation: 117.879182885
+UNKNOWN: average: 949.379760609, std deviation: 114.489482644
+LD_BLOCKS.STORE_FORWARD: average: 0.249183895539, std deviation: 0.432540497229
+UOPS_EXECUTED.CORE: average: 240.699673558, std deviation: 156.786947857
+BR_MISP_RETIRED.ALL_BRANCHES: average: 6.04570184984, std deviation: 0.208837713927
+UOPS_ISSUED.SINGLE_MUL: average: 0.0, std deviation: 0.0
+---------------------------------------------------------
+######### rsb_fill_deep_stack_0021 ###########
+INSTRUCTIONS_RETIRED: average: 59.0, std deviation: 0.0
+CYCLES: average: 997.53655914, std deviation: 75.3125620117
+UNKNOWN: average: 951.380645161, std deviation: 104.021974786
+LD_BLOCKS.STORE_FORWARD: average: 0.245161290323, std deviation: 0.430182789114
+UOPS_EXECUTED.CORE: average: 206.320430108, std deviation: 46.7262044763
+BR_MISP_RETIRED.ALL_BRANCHES: average: 7.08064516129, std deviation: 0.272289403486
+UOPS_ISSUED.SINGLE_MUL: average: 0.0, std deviation: 0.0
+---------------------------------------------------------
+######### rsb_fill_deep_stack_0022 ###########
+INSTRUCTIONS_RETIRED: average: 61.0, std deviation: 0.0
+CYCLES: average: 1047.43697479, std deviation: 64.642684815
+UNKNOWN: average: 1034.25210084, std deviation: 76.2572182546
+LD_BLOCKS.STORE_FORWARD: average: 0.235294117647, std deviation: 0.424182502996
+UOPS_EXECUTED.CORE: average: 208.203781513, std deviation: 40.1828079274
+BR_MISP_RETIRED.ALL_BRANCHES: average: 8.02836134454, std deviation: 0.166002947787
+UOPS_ISSUED.SINGLE_MUL: average: 0.0, std deviation: 0.0
+---------------------------------------------------------

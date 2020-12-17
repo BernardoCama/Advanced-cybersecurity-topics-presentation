@@ -1,0 +1,36 @@
+######### spec_length_0001 ###########
+INSTRUCTIONS_RETIRED: average: 14.0, std deviation: 0.0
+CYCLES: average: 391.22247972190036, std deviation: 34.46252240666168
+UNKNOWN: average: 206.68366164542294, std deviation: 42.834135893190826
+LD_BLOCKS.STORE_FORWARD: average: 0.0, std deviation: 0.0
+UOPS_EXECUTED.CORE: average: 86.95249130938586, std deviation: 0.2745525036690415
+BR_MISP_RETIRED.ALL_BRANCHES: average: 1.0, std deviation: 0.0
+UOPS_ISSUED.SINGLE_MUL: average: 0.0, std deviation: 0.0
+---------------------------------------------------------
+######### spec_length_0002 ###########
+INSTRUCTIONS_RETIRED: average: 14.0, std deviation: 0.0
+CYCLES: average: 391.40586797066015, std deviation: 31.776174199241076
+UNKNOWN: average: 205.8484107579462, std deviation: 38.996539294358065
+LD_BLOCKS.STORE_FORWARD: average: 0.0, std deviation: 0.0
+UOPS_EXECUTED.CORE: average: 87.11124694376528, std deviation: 3.927346997064469
+BR_MISP_RETIRED.ALL_BRANCHES: average: 1.0, std deviation: 0.0
+UOPS_ISSUED.SINGLE_MUL: average: 0.0, std deviation: 0.0
+---------------------------------------------------------
+######### spec_length_0003 ###########
+INSTRUCTIONS_RETIRED: average: 14.0, std deviation: 0.0
+CYCLES: average: 420.085684430512, std deviation: 78.80759060102832
+UNKNOWN: average: 219.98746081504703, std deviation: 55.13482903346491
+LD_BLOCKS.STORE_FORWARD: average: 0.0, std deviation: 0.0
+UOPS_EXECUTED.CORE: average: 140.816091954023, std deviation: 101.33761419309668
+BR_MISP_RETIRED.ALL_BRANCHES: average: 1.0, std deviation: 0.0
+UOPS_ISSUED.SINGLE_MUL: average: 0.0, std deviation: 0.0
+---------------------------------------------------------
+######### spec_length_0004 ###########
+INSTRUCTIONS_RETIRED: average: 14.0, std deviation: 0.0
+CYCLES: average: 402.4890350877193, std deviation: 57.385220015801345
+UNKNOWN: average: 207.26315789473685, std deviation: 45.61952733466478
+LD_BLOCKS.STORE_FORWARD: average: 0.0, std deviation: 0.0
+UOPS_EXECUTED.CORE: average: 87.07236842105263, std deviation: 3.5195605792887643
+BR_MISP_RETIRED.ALL_BRANCHES: average: 1.0, std deviation: 0.0
+UOPS_ISSUED.SINGLE_MUL: average: 0.0, std deviation: 0.0
+---------------------------------------------------------

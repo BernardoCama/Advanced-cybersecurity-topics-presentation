@@ -1,0 +1,90 @@
+######### syscall_speculation_0001 ###########
+INSTRUCTIONS_RETIRED: average: 14.0, std deviation: 0.0
+CYCLES: average: 338.388429752, std deviation: 20.3799637875
+UNKNOWN: average: 353.367768595, std deviation: 27.6231479013
+LD_BLOCKS.STORE_FORWARD: average: 0.0, std deviation: 0.0
+UOPS_EXECUTED.CORE: average: 83.0, std deviation: 0.0
+BR_MISP_RETIRED.ALL_BRANCHES: average: 1.0, std deviation: 0.0
+UOPS_ISSUED.SINGLE_MUL: average: 0.0, std deviation: 0.0
+---------------------------------------------------------
+######### syscall_speculation_0002 ###########
+INSTRUCTIONS_RETIRED: average: 14.0, std deviation: 0.0
+CYCLES: average: 339.938860104, std deviation: 19.8846776939
+UNKNOWN: average: 352.227979275, std deviation: 27.404281738
+LD_BLOCKS.STORE_FORWARD: average: 0.0, std deviation: 0.0
+UOPS_EXECUTED.CORE: average: 83.0, std deviation: 0.0
+BR_MISP_RETIRED.ALL_BRANCHES: average: 1.0, std deviation: 0.0
+UOPS_ISSUED.SINGLE_MUL: average: 0.0, std deviation: 0.0
+---------------------------------------------------------
+######### syscall_speculation_0003 ###########
+INSTRUCTIONS_RETIRED: average: 14.0, std deviation: 0.0
+CYCLES: average: 344.522326064, std deviation: 16.4442565098
+UNKNOWN: average: 348.224299065, std deviation: 24.5259002564
+LD_BLOCKS.STORE_FORWARD: average: 0.0, std deviation: 0.0
+UOPS_EXECUTED.CORE: average: 83.0, std deviation: 0.0
+BR_MISP_RETIRED.ALL_BRANCHES: average: 1.0, std deviation: 0.0
+UOPS_ISSUED.SINGLE_MUL: average: 0.0, std deviation: 0.0
+---------------------------------------------------------
+######### syscall_speculation_0004 ###########
+INSTRUCTIONS_RETIRED: average: 14.0, std deviation: 0.0
+CYCLES: average: 346.665966387, std deviation: 21.7373980036
+UNKNOWN: average: 348.844537815, std deviation: 27.6785455169
+LD_BLOCKS.STORE_FORWARD: average: 0.0, std deviation: 0.0
+UOPS_EXECUTED.CORE: average: 83.0, std deviation: 0.0
+BR_MISP_RETIRED.ALL_BRANCHES: average: 1.0, std deviation: 0.0
+UOPS_ISSUED.SINGLE_MUL: average: 0.0, std deviation: 0.0
+---------------------------------------------------------
+######### syscall_speculation_0005 ###########
+INSTRUCTIONS_RETIRED: average: 14.0, std deviation: 0.0
+CYCLES: average: 336.18556701, std deviation: 20.0314340073
+UNKNOWN: average: 355.453608247, std deviation: 26.2511740017
+LD_BLOCKS.STORE_FORWARD: average: 0.0, std deviation: 0.0
+UOPS_EXECUTED.CORE: average: 83.0, std deviation: 0.0
+BR_MISP_RETIRED.ALL_BRANCHES: average: 1.0, std deviation: 0.0
+UOPS_ISSUED.SINGLE_MUL: average: 0.0, std deviation: 0.0
+---------------------------------------------------------
+######### syscall_speculation_0006 ###########
+INSTRUCTIONS_RETIRED: average: 14.0, std deviation: 0.0
+CYCLES: average: 338.333696838, std deviation: 25.3817932662
+UNKNOWN: average: 356.074154853, std deviation: 30.9864528296
+LD_BLOCKS.STORE_FORWARD: average: 0.0, std deviation: 0.0
+UOPS_EXECUTED.CORE: average: 83.0, std deviation: 0.0
+BR_MISP_RETIRED.ALL_BRANCHES: average: 1.0, std deviation: 0.0
+UOPS_ISSUED.SINGLE_MUL: average: 0.0, std deviation: 0.0
+---------------------------------------------------------
+######### syscall_speculation_0007 ###########
+INSTRUCTIONS_RETIRED: average: 14.0, std deviation: 0.0
+CYCLES: average: 347.968421053, std deviation: 20.6308163124
+UNKNOWN: average: 347.715789474, std deviation: 25.5619631722
+LD_BLOCKS.STORE_FORWARD: average: 0.0, std deviation: 0.0
+UOPS_EXECUTED.CORE: average: 83.0, std deviation: 0.0
+BR_MISP_RETIRED.ALL_BRANCHES: average: 1.0, std deviation: 0.0
+UOPS_ISSUED.SINGLE_MUL: average: 0.0, std deviation: 0.0
+---------------------------------------------------------
+######### syscall_speculation_0008 ###########
+INSTRUCTIONS_RETIRED: average: 14.0, std deviation: 0.0
+CYCLES: average: 346.593360996, std deviation: 25.7103761427
+UNKNOWN: average: 347.738589212, std deviation: 31.8266525695
+LD_BLOCKS.STORE_FORWARD: average: 0.0, std deviation: 0.0
+UOPS_EXECUTED.CORE: average: 83.5995850622, std deviation: 0.916333933465
+BR_MISP_RETIRED.ALL_BRANCHES: average: 1.0, std deviation: 0.0
+UOPS_ISSUED.SINGLE_MUL: average: 0.0, std deviation: 0.0
+---------------------------------------------------------
+######### syscall_speculation_0009 ###########
+INSTRUCTIONS_RETIRED: average: 14.0, std deviation: 0.0
+CYCLES: average: 336.576323988, std deviation: 26.7602163639
+UNKNOWN: average: 353.769470405, std deviation: 33.4672826151
+LD_BLOCKS.STORE_FORWARD: average: 0.0, std deviation: 0.0
+UOPS_EXECUTED.CORE: average: 83.0, std deviation: 0.0
+BR_MISP_RETIRED.ALL_BRANCHES: average: 1.0, std deviation: 0.0
+UOPS_ISSUED.SINGLE_MUL: average: 0.0, std deviation: 0.0
+---------------------------------------------------------
+######### syscall_speculation_baseline ###########
+INSTRUCTIONS_RETIRED: average: 14.0, std deviation: 0.0
+CYCLES: average: 346.115424974, std deviation: 26.9918044235
+UNKNOWN: average: 351.720881427, std deviation: 32.3830975962
+LD_BLOCKS.STORE_FORWARD: average: 0.0, std deviation: 0.0
+UOPS_EXECUTED.CORE: average: 74.0, std deviation: 0.0
+BR_MISP_RETIRED.ALL_BRANCHES: average: 1.00104931794, std deviation: 0.0323761775877
+UOPS_ISSUED.SINGLE_MUL: average: 0.0, std deviation: 0.0
+---------------------------------------------------------

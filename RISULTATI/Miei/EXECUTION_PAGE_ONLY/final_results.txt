@@ -1,0 +1,36 @@
+######### spec_length_0001 ###########
+INSTRUCTIONS_RETIRED: average: 14.0, std deviation: 0.0
+CYCLES: average: 383.529286475, std deviation: 27.9418219687
+UNKNOWN: average: 243.833865815, std deviation: 61.0077081241
+LD_BLOCKS.STORE_FORWARD: average: 0.0, std deviation: 0.0
+UOPS_EXECUTED.CORE: average: 60.4313099042, std deviation: 14.5246410101
+BR_MISP_RETIRED.ALL_BRANCHES: average: 1.0, std deviation: 0.0
+UOPS_RETIRED.ANY: average: 74.0063897764, std deviation: 0.16627748387
+---------------------------------------------------------
+######### spec_length_0002 ###########
+INSTRUCTIONS_RETIRED: average: 14.0, std deviation: 0.0
+CYCLES: average: 389.241127349, std deviation: 46.8253907933
+UNKNOWN: average: 244.747390397, std deviation: 60.7507044254
+LD_BLOCKS.STORE_FORWARD: average: 0.0, std deviation: 0.0
+UOPS_EXECUTED.CORE: average: 59.990605428, std deviation: 10.5442162484
+BR_MISP_RETIRED.ALL_BRANCHES: average: 1.0, std deviation: 0.0
+UOPS_RETIRED.ANY: average: 73.9916492693, std deviation: 0.35086114484
+---------------------------------------------------------
+######### spec_length_0003 ###########
+INSTRUCTIONS_RETIRED: average: 14.0, std deviation: 0.0
+CYCLES: average: 385.446428571, std deviation: 37.8857369319
+UNKNOWN: average: 247.651260504, std deviation: 65.225370593
+LD_BLOCKS.STORE_FORWARD: average: 0.0, std deviation: 0.0
+UOPS_EXECUTED.CORE: average: 59.3403361345, std deviation: 5.08909394666
+BR_MISP_RETIRED.ALL_BRANCHES: average: 0.998949579832, std deviation: 0.0323931595485
+UOPS_RETIRED.ANY: average: 74.0052521008, std deviation: 0.116738501025
+---------------------------------------------------------
+######### spec_length_0004 ###########
+INSTRUCTIONS_RETIRED: average: 14.0, std deviation: 0.0
+CYCLES: average: 385.10565635, std deviation: 30.2047891066
+UNKNOWN: average: 242.394877268, std deviation: 58.7245609713
+LD_BLOCKS.STORE_FORWARD: average: 0.0, std deviation: 0.0
+UOPS_EXECUTED.CORE: average: 62.9743863394, std deviation: 29.2708141429
+BR_MISP_RETIRED.ALL_BRANCHES: average: 1.0, std deviation: 0.0
+UOPS_RETIRED.ANY: average: 74.0096051227, std deviation: 0.331410674401
+---------------------------------------------------------

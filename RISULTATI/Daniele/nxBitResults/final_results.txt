@@ -1,0 +1,36 @@
+######### spec_length_0001 ###########
+INSTRUCTIONS_RETIRED: average: 14.0, std deviation: 0.0
+CYCLES: average: 247.833504625, std deviation: 9.47528986013
+UNKNOWN: average: 244.341212744, std deviation: 13.8052344724
+LD_BLOCKS.STORE_FORWARD: average: 0.0, std deviation: 0.0
+UOPS_EXECUTED.CORE: average: 63.0832476876, std deviation: 1.95642587302
+BR_MISP_RETIRED.ALL_BRANCHES: average: 1.0, std deviation: 0.0
+UOPS_ISSUED.ANY: average: 75.0534429599, std deviation: 1.79791502122
+---------------------------------------------------------
+######### spec_length_0002 ###########
+INSTRUCTIONS_RETIRED: average: 14.0, std deviation: 0.0
+CYCLES: average: 246.150259067, std deviation: 5.88906182305
+UNKNOWN: average: 242.652849741, std deviation: 11.9851680646
+LD_BLOCKS.STORE_FORWARD: average: 0.0, std deviation: 0.0
+UOPS_EXECUTED.CORE: average: 63.118134715, std deviation: 3.00164594614
+BR_MISP_RETIRED.ALL_BRANCHES: average: 1.0, std deviation: 0.0
+UOPS_ISSUED.ANY: average: 74.9906735751, std deviation: 0.200817144615
+---------------------------------------------------------
+######### spec_length_0003 ###########
+INSTRUCTIONS_RETIRED: average: 14.0, std deviation: 0.0
+CYCLES: average: 247.106957425, std deviation: 9.68474962352
+UNKNOWN: average: 243.173416407, std deviation: 13.6910746051
+LD_BLOCKS.STORE_FORWARD: average: 0.0, std deviation: 0.0
+UOPS_EXECUTED.CORE: average: 63.3302180685, std deviation: 4.27300330837
+BR_MISP_RETIRED.ALL_BRANCHES: average: 1.0, std deviation: 0.0
+UOPS_ISSUED.ANY: average: 74.9854620976, std deviation: 0.352702766213
+---------------------------------------------------------
+######### spec_length_0004 ###########
+INSTRUCTIONS_RETIRED: average: 14.0, std deviation: 0.0
+CYCLES: average: 246.681818182, std deviation: 7.84285219665
+UNKNOWN: average: 242.79338843, std deviation: 13.2065081348
+LD_BLOCKS.STORE_FORWARD: average: 0.0, std deviation: 0.0
+UOPS_EXECUTED.CORE: average: 63.0216942149, std deviation: 0.77309110518
+BR_MISP_RETIRED.ALL_BRANCHES: average: 1.0, std deviation: 0.0
+UOPS_ISSUED.ANY: average: 74.9907024793, std deviation: 0.233806805344
+---------------------------------------------------------

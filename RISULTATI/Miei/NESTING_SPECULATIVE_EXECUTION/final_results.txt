@@ -1,0 +1,9 @@
+######### speculation_in_speculation_in_speculation ###########
+INSTRUCTIONS_RETIRED: average: 22.0, std deviation: 0.0
+CYCLES: average: 444.28125, std deviation: 44.2051804857
+UNKNOWN: average: 275.625, std deviation: 62.09959239
+LD_BLOCKS.STORE_FORWARD: average: 0.0, std deviation: 0.0
+UOPS_EXECUTED.CORE: average: 101.854166667, std deviation: 8.32538683619
+BR_MISP_RETIRED.ALL_BRANCHES: average: 1.01041666667, std deviation: 0.101529107758
+UOPS_ISSUED.SLOW_LEA: average: 10.9791666667, std deviation: 0.203058215517
+---------------------------------------------------------

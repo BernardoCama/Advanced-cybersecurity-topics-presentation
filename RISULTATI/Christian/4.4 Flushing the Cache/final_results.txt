@@ -1,0 +1,18 @@
+######### clflush_in_speculation_cached ###########
+INSTRUCTIONS_RETIRED: average: 15.0, std deviation: 0.0
+CYCLES: average: 412.92967818831943, std deviation: 45.06317709276406
+UNKNOWN: average: 207.9046483909416, std deviation: 42.697935234239516
+LD_BLOCKS.STORE_FORWARD: average: 0.0, std deviation: 0.0
+UOPS_EXECUTED.CORE: average: 86.92014302741359, std deviation: 0.8635442550196752
+BR_MISP_RETIRED.ALL_BRANCHES: average: 1.0, std deviation: 0.0
+UOPS_ISSUED.SINGLE_MUL: average: 0.0, std deviation: 0.0
+---------------------------------------------------------
+######### clflush_in_speculation_uncached ###########
+INSTRUCTIONS_RETIRED: average: 15.0, std deviation: 0.0
+CYCLES: average: 669.4697773064687, std deviation: 59.65902484667013
+UNKNOWN: average: 339.4103923647932, std deviation: 60.50287827964688
+LD_BLOCKS.STORE_FORWARD: average: 0.0, std deviation: 0.0
+UOPS_EXECUTED.CORE: average: 86.8695652173913, std deviation: 0.5573727586527308
+BR_MISP_RETIRED.ALL_BRANCHES: average: 1.0, std deviation: 0.0
+UOPS_ISSUED.SINGLE_MUL: average: 0.0, std deviation: 0.0
+---------------------------------------------------------
